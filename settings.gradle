@@ -1,0 +1,4 @@
+include ':FiturModule:mylib'
+include ':app'
+include ':FiturModule'
+rootProject.name = "TestModule"
